@@ -14,7 +14,7 @@
       z-index: 100;
       top: 0;
       left: 0;
-      background: rgb(99, 221, 99);
+      background: darkcyan;
       color: white;
     }
     .header .contenedor {
@@ -35,7 +35,7 @@
    }
   .menu li a {
       padding: 2px 7px 2px 7px;
-      color: #666;
+      color: black;
       text-decoration: none;
    }
    .menu li a:hover{
@@ -53,6 +53,13 @@
     width: 100%;
     margin-bottom: 25px;
   }
+  aside{
+    display: inline-block;
+    width: 28%;
+    vertical-align: top;
+    margin-left: 876px;
+    margin-top: -335px;
+}
   #banner{
     position: relative;
     margin-top: 70px;
@@ -92,16 +99,18 @@
   }
   #inicio h2{
     margin-top: 70px;
+    margin-right: 376px;
   }
   #inicio p{
     text-align: justify;
     font-weight: normal;
-    margin-top: 20px;
+    margin-top: 51px;
     margin-left: 110px;
   }
 
+
   #info {
-    background: rgb(134, 236, 151);
+    background: chocolate;
     text-align: center;
     padding: 20px;
     margin-top: 55px;
@@ -125,7 +134,7 @@
   footer{
     width: 100%;
     height: 110px;
-    background: rgb(99, 221, 99);
+    background: brown;
     margin-top:110px;
     overflow: hidden;
   }
@@ -141,7 +150,7 @@
   }
   footer img{
     position: relative;
-    left: 580px;
+    left: 600px;
     top: -55px;
     overflow: hidden;
   }
@@ -150,7 +159,7 @@
     text-align: center;
     font-size: 15px;
     width: auto;
-    margin: 0px -211px 27px 227px;
+    margin: 0px -270px 27px 288px;
     overflow: hidden;
     color: white;
     margin-top: 10px;
