@@ -45,6 +45,7 @@
       border-radius: 6px;
    }
 
+
    .logo {
     font-size: 28px;
     margin: 13px 28px;
@@ -64,6 +65,10 @@
     position: relative;
     margin-top: 70px;
   }
+  #banner .contador img{
+    width: auto;
+    margin-left: auto;
+   }
   #banner img{
     width: 50%;
     margin-top: 11px;
